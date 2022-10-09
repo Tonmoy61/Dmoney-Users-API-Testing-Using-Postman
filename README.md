@@ -18,6 +18,6 @@
 
 #### 05 npm install/ npm i or yarn install
 
-#### 06 npx newman run .collection/DmoneyUsers_collection.json
+#### 06 npx newman run .collection/Dmoney_api_collection.json
 
 #### 07 npm test or yarn tes
