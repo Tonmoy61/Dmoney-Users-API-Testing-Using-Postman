@@ -22,4 +22,4 @@
 
 #### 07 npm test or yarn tes
 #### **Reports Preview Below**
-<img width="421" alt="report" src="https://github.com/Tonmoy61/Dmoney-Users-API-Testing-Using-Postman/blob/main/collection/report.png">
+<img width="600" alt="report" src="https://github.com/Tonmoy61/Dmoney-Users-API-Testing-Using-Postman/blob/main/collection/report.png">
