@@ -21,3 +21,5 @@
 #### 06 npx newman run .collection/Dmoney_api_collection.json
 
 #### 07 npm test or yarn tes
+#### **Reports Preview Below**
+<img width="421" alt="report" src="https://github.com/Tonmoy61/Dmoney-Users-API-Testing-Using-Postman/blob/main/collection/report.png">
