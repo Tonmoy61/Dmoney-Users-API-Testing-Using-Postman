@@ -5,7 +5,7 @@
 
 :two: [API testing Postman Documentation Link Here](https://documenter.getpostman.com/view/15963227/2s83zdxSAp)
 
-#### *How to run this project*
+➡️: *How to run this project*
 
 :one: Clone this project
 
