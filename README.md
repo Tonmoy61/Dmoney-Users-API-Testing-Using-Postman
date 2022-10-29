@@ -1,9 +1,9 @@
 # Dmoney Users API Testing Using Postman
 
 
-:one: [API testing Postman Collection Link Here](https://www.getpostman.com/collections/f5f37ae4c1ed78b0b710)
+:link: [API testing Postman Collection Link Here](https://www.getpostman.com/collections/f5f37ae4c1ed78b0b710)
 
-:two: [API testing Postman Documentation Link Here](https://documenter.getpostman.com/view/15963227/2s83zdxSAp)
+:link: [API testing Postman Documentation Link Here](https://documenter.getpostman.com/view/15963227/2s83zdxSAp)
 
 :white_check_mark: *How to run this project*
 
