@@ -1,10 +1,9 @@
 # Dmoney Users API Testing Using Postman
 
-### *Assignment API testing with Postman*
 
-#### 01 [API testing Postman Collection Link Here](https://www.getpostman.com/collections/f5f37ae4c1ed78b0b710)
+:one: [API testing Postman Collection Link Here](https://www.getpostman.com/collections/f5f37ae4c1ed78b0b710)
 
-#### 02 [API testing Postman Documentation Link Here](https://documenter.getpostman.com/view/15963227/2s83zdxSAp)
+:two: [API testing Postman Documentation Link Here](https://documenter.getpostman.com/view/15963227/2s83zdxSAp)
 
 #### *How to run this project*
 
